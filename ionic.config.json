@@ -1,0 +1,8 @@
+{
+  "name": "QuickTest",
+  "app_id": "adf11277",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
